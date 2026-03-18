@@ -24,11 +24,14 @@
 
 ## 🖼️ Preview
 
-| Hero Section | Marquee + About | Interactive Eyes |
-|:---:|:---:|:---:|
+| Hero Section |
+|:---:|
 | <img width="1919" height="906" alt="Screenshot 2026-03-18 190424" src="https://github.com/user-attachments/assets/3e58db95-4ff7-437a-9878-bfc3ac7a04a3" />
-
+| Marquee + About |
+|:---:|
  |<img width="1903" height="913" alt="Screenshot 2026-03-18 190433" src="https://github.com/user-attachments/assets/097698ef-9a86-47c6-b731-5555d79a33f8" />
+ | Interactive Eyes |
+ |:---:|
  | <img width="1906" height="917" alt="Screenshot 2026-03-18 190441" src="https://github.com/user-attachments/assets/d4b32a6c-2e8f-4653-8096-cf163660bdcc" />
  |
 
